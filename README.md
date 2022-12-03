@@ -249,20 +249,6 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
 
-## 捐助 [![](https://img.shields.io/badge/-请我喝咖啡啦-FFFFFF.svg)](#捐助-)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 若您觉得好用并愿意支持本项目长期发展下去。获得最佳的软路由使用体验，可以考虑捐助项目……请作者喝杯咖啡~~~
-
-**捐助方式**
-
-|     <img src="https://img.shields.io/badge/-支付宝-FFFFFF.svg" href="#赞助支持本项目-" height="25" alt="图裂了😂"/>  |  <img src="https://img.shields.io/badge/-微信-FFFFFF.svg" height="25" alt="图裂了😂" href="#赞助支持本项目-" />  | 
-| :-----------------: | :-------------: |
-|<img src="https://img.vim-cn.com/24/8c86e483e945f14aeb96662270d4f320a9ed5d.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|<img src="https://img.vim-cn.com/c1/e41cd8fde8f5a863f4d3cdac6f23840d398e01.jpg" width="150" height="150" alt="图裂了😂" href="#赞助支持本项目-"/>|
-
-<a href="#readme">
-    <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
-</a>
-
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
  
 [OpenWrt 官方库](https://github.com/openwrt/openwrt)
@@ -274,11 +260,7 @@ MIPS 设备推荐使用 Padavan 固件： [![](https://img.shields.io/badge/-Pad
 [Lienol 的 Packages 库](https://github.com/Lienol/openwrt-packages)
 
 [SuLingGG 的 OpenWrt-Rpi 库](https://github.com/SuLingGG/OpenWrt-Rpi)
-
-###### [解决 Github 网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
-
-[![](https://img.shields.io/badge/QQ群-点击加入-FFFFFF.svg)](https://jq.qq.com/?_wv=1027&k=9Sh2iNhT)
-
+[IvanSolis1989的OpenWrt-DIY库](https://github.com/IvanSolis1989/OpenWrt-DIY)
 <a href="#readme">
     <img src="https://img.shields.io/badge/-返回顶部-FFFFFF.svg" alt="图裂了😂" title="返回顶部" align="right"/>
 </a>
